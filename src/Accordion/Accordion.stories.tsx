@@ -1,7 +1,8 @@
 import React, {useState} from 'react';
-// also exported from '@storybook/react' if you can deal with breaking changes in 6.1
 import {ControlAccordion} from "./ControlAccordion";
-import {action} from "@storybook/addon-actions";
+import {action} from '@storybook/react'
+// also exported from '@storybook/react' if you can deal with breaking changes in 6.1
+
 
 
 export default {

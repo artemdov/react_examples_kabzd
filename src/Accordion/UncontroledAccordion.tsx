@@ -14,7 +14,7 @@ function UncontroledAccordion(props:AccordionPropsType) {
          </div>
      }
 
-type AccordionPropsType = {
+ type AccordionPropsType = {
     titleValue:string
     //collapsed:boolean
 
